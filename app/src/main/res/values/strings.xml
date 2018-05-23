@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Creativity</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sa_desenam">Sa desenam</string>
+    <string name="construieste_un_castel">construieste un castel</string>
+    <string name="picteaza">picteaza</string>
+    <string name="construieste_cu_lego">construieste cu lego</string>
+    <string name="start">start</string>
+    <string name="play_video">video</string>
+</resources>
